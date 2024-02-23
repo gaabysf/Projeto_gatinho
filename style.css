@@ -1,0 +1,55 @@
+header{
+   background-color: #EB6440;
+   display: flex;
+   justify-content: space-between;
+}
+.gato{
+   background-color: #EB6440;
+   text-align: left;
+}
+.nav {
+   background-color: #EB6440;
+   padding: 6px 0;
+}
+nav ul{
+   list-style-type: none;
+   text-align: center;
+}
+nav ul li{
+   display: inline;
+}
+a{
+   text-align: none;
+   padding-right: 10px;
+   color: #444;
+   font-family: "Nunito";
+   font-weight: 800;
+}
+login{
+   text-align: right;
+}
+registrar{
+   text-align: right;
+}
+body{
+   margin: 0;
+   padding: 0;
+}
+
+.cabeçalho{
+   display: flex;
+   justify-content: space-between;
+}
+
+.navmenu{
+   margin-left: 100px;
+}
+
+
+footer{
+   background-color: #EB6440;
+   display: flex;
+   justify-content: space-between;
+}
+
+   
